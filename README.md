@@ -1,2 +1,2 @@
-# Texto a voz
-Convierte el texto desde un url a voz
+# proyectos usando python
+diferentes ideas de programas pequeños con python
