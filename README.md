@@ -15,13 +15,17 @@ Aquí puedes encontrar diferentes proyectos con Python, sobre los cuales inspira
 
 6. [Detector de idiomas](https://github.com/Johanafuku/python-projects/tree/main/detector_idiomas) - de forma rápida comprueba el idioma del texto que ingreses, uso básico de la libreria langdetect 🌍
 
+7. [Alarma rep Youtube](https://github.com/Johanafuku/python-projects/tree/main/alarma_rep_youtube) - Programa el tiempo en el cual quieres que se reproduzcan las canciones de Youtube, puedes añadir tus links en el archivo "enlaces.txt" o crear otro archivo txt 🔉
+
 ## Cómo Usar 📝
 
-1. Puedes clonar el repositorio en tu equipo o hacer un fork para que aparezca en tu perfil de GitHub.
+1. Puedes descargar el repositorio como ZIP, descomprimir y usar los archivos en tu VS Code.
 
-2. Abre la carpeta en tu VS Code.
+2. Puedes clonar el repositorio en tu equipo, abre tu terminal y usa: git clone https://github.com/Johanafuku/python-projects.git
 
-3. Asegurate de tener los requisitos para cada uno de los programas.
+3. Puedes hacer un fork y tener una copia del repositorio en tu perfil de GitHub
+
+4. Asegurate de tener los requisitos para cada uno de los programas.
 
 ## Requisitos 📋
 
@@ -37,6 +41,8 @@ Para usar los diferentes programas asegurate de tener instaladas las librerias y
 - Libreria openpyxl 📒
 - Libreria urllib3 📕
 - Libreria langdetect 📗 
+- Libreria pywhatkit 📘
+- Libreria pytube 📙
 
 
 ## Colaboraciones 💭
@@ -61,13 +67,17 @@ Here you can find different projects using Python, so you can inspire yourself, 
 
 6. [Language detector](https://github.com/Johanafuku/python-projects/tree/main/detector_idiomas) - Fast way to check the language of a phrase or text. This is a basic use of langdetect library 🌍
 
+7. [Alarma rep Youtube](https://github.com/Johanafuku/python-projects/tree/main/alarma_rep_youtube) - Set the time in which you want the songs from Youtube to play. You can add your links in the "enlaces.txt" or create a new txt file 🔉
+
 ## How to use 📝
 
-1. You can clone the repository on your desk or make a fork so it appears on your GitHub profile.
+1. You can download the repository as a ZIP, then decompress file and use them on your VS Code.
 
-2. Open the directory on VS Code.
+2. You can clone the repository on your computer. Just, open the terminal and type: git clone https://github.com/Johanafuku/python-projects.git
 
-3. Make sure you have all the libraries and packages to run the programs.
+3. You can fork the repository to have a copy on your GitHub profile.
+
+4. Make sure you have all the necessary libraries to execute the programs.
 
 ## Requirements 📋
 
@@ -83,6 +93,8 @@ In order to use the different programs, make sure you have installed on your VS 
 - openpyxl library 📒
 - urllib3 library 📕
 - langdetect library 📗 
+- pywhatkit library 📘
+- pytube library 📙
 
 
 ## Collaborations 💭
