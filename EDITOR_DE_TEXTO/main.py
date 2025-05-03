@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog
 from io import open
-import fitz  # PyMuPDF
+import pymupdf as fitz
 from odf.opendocument import load as load_odt
 from odf.text import P
 import openpyxl

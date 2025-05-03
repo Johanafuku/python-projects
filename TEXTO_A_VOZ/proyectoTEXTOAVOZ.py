@@ -31,6 +31,6 @@ def texto_a_voz(url):
 
 
 
-#CASO DE USO
-url = "https://www.euroinnova.bo/blog/articulo-sobre-la-educacion-actual"
+#CASO DE USO, coloca el url que quieras
+url = "https://www.conquerblocks.com/post/que-es-un-algoritmo-y-por-que-es-tan-importante"
 texto_a_voz(url)
